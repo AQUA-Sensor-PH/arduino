@@ -6,7 +6,7 @@ const char* ssid = "GCUnet_Leni";
 const char* password = "cocacola123";
 
 // API Node.js
-const char* serverName = "http://192.168.3.7:3000/api/ph";  // Altere se necessário
+const char* serverName = "http://127.0.0.1:3000/api/ph";  // Altere se necessário
 
 // Sensor de pH
 const int ph_pin = 34;
